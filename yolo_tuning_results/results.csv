@@ -1,0 +1,9 @@
+Run,imgsz,lr,batch,mAP50,mAP50-95,Precision,Recall
+run1_img416_lr0.01_batch8,416,0.01,8,N/A,N/A,N/A,N/A
+run2_img416_lr0.01_batch16,416,0.01,16,N/A,N/A,N/A,N/A
+run3_img416_lr0.0005_batch8,416,0.0005,8,N/A,N/A,N/A,N/A
+run4_img416_lr0.0005_batch16,416,0.0005,16,N/A,N/A,N/A,N/A
+run5_img640_lr0.01_batch8,640,0.01,8,N/A,N/A,N/A,N/A
+run6_img640_lr0.01_batch16,640,0.01,16,N/A,N/A,N/A,N/A
+run7_img640_lr0.0005_batch8,640,0.0005,8,N/A,N/A,N/A,N/A
+run8_img640_lr0.0005_batch16,640,0.0005,16,N/A,N/A,N/A,N/A
